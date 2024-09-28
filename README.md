@@ -41,7 +41,7 @@ We were able to implement several features into HEAT, as well as updating fonts 
 
 Project Source: https://www.kaggle.com/competitions/cassava-leaf-disease-classification </br>
 Java Files: https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/G7 </br>
-LaTeX Thesis: https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/Document
+LaTeX Thesis: https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/document
 
 This is a private repository and is shared for educational purposes. Please feel free to [download](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/archive/refs/heads/main.zip) this repo for your own educational needs. For further infomation please direct yourself to the files listed; <br> [License](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/LICENSE.txt), [Code of Conduct](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/docs/CODE_OF_CONDUCT.md),  [Contributing](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/docs/CONTRIBUTING.md), [Changelog](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/docs/CHANGELOG.md), [Security](https://github.com/lrgto/developing-java-accessability-extensions-in-the-heat-program/blob/main/docs/SECURITY.md).
 
